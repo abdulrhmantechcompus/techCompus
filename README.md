@@ -1,1 +1,1 @@
-# techcompus
+# techCompus
